@@ -559,3 +559,8 @@ notebooks:
   code_cells: 0
   environment: torch.dev.gpu
   description: Explaining CNNs assignment using integrated gradients and Grad-CAM on cats vs dogs
+- source: aiml-common/assignments/topics/embedding-projector/embedding_projector_assignment.ipynb
+  notebook: assignments/topics/embedding-projector/embedding_projector_assignment.ipynb
+  code_cells: 8
+  environment: torch.dev.gpu
+  description: Embedding Projector assignment word2vec PCA UMAP and neighborhood query
