@@ -1,0 +1,13 @@
+.env
+
+data/
+local-store/
+rustfs-data/
+rustfs-logs/
+
+metadata.ducklake
+notebooks/metadata.ducklake
+
+.DS_Store
+__pycache__/
+*.pyc
